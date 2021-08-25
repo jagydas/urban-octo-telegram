@@ -8,7 +8,7 @@ This is a website designed to optimize search Engine to get more customer views.
 *CSS
 
 ## Website
-https://github.com/jagydas/urban-octo-telegram
+https://jagydas.github.io/urban-octo-telegram/
 
 ## Contribution
  jagydas
